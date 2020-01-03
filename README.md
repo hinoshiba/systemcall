@@ -9,7 +9,7 @@ systemcall
 
 * [warming up](./wup/README.md)
 	* Setup environment C Lang.
-* [fcp](./fcp/README.md)
+* [cpat](./cpat/README.md)
 	* Target the file I/O. Create a command "fcp" that combines cat and cp.
 		* man2
 			* [read](https://linuxjm.osdn.jp/html/LDP_man-pages/man2/read.2.html)
