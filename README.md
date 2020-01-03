@@ -22,6 +22,7 @@ systemcall
 			* [poll](https://linuxjm.osdn.jp/html/LDP_man-pages/man2/poll.2.html)
 			* [sigfd](https://linuxjm.osdn.jp/html/LDP_man-pages/man2/signalfd.2.html)
 		* man3, 7
+			* [signal](https://linuxjm.osdn.jp/html/LDP_man-pages/man7/signal.7.html)
 			* [epoll](https://linuxjm.osdn.jp/html/LDP_man-pages/man7/epoll.7.html)
 			* [timerfd]()
 			* [mq_overview](https://linuxjm.osdn.jp/html/LDP_man-pages/man7/mq_overview.7.html)
