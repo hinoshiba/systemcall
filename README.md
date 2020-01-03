@@ -3,14 +3,16 @@ systemcall
 
 * study unix system call.
 	* And doubles as study english.
-* [japanese man project link](https://linuxjm.osdn.jp)
+* main reference
+	* [japanese man project link](https://linuxjm.osdn.jp)
 
 ### mine contents
 
 * [warming up](./wup/README.md)
 	* Setup environment C Lang.
 * [cpat](./cpat/README.md)
-	* Target the file I/O. Create a command "fcp" that combines cat and cp.
+	* Target the file I/O. Create a command "cpat" that combines cat and cp.
+	* man's reference
 		* man2
 			* [read](https://linuxjm.osdn.jp/html/LDP_man-pages/man2/read.2.html)
 			* [write](https://linuxjm.osdn.jp/html/LDP_man-pages/man2/write.2.html)
