@@ -19,7 +19,8 @@ cpat
 4. cpat.
 	* Add function of write to file.
 	* [source](./src/04/cpat.c)
-5. use readv(2) and writev(2) at cpat.
+5. cpat (readv)
+	* Update systemcall to readv(2) and writev(2) from read(2) and write(2).
 6. `...` to be continued.
 
 ### index idea memo
