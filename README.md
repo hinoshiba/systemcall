@@ -20,6 +20,7 @@ systemcall
 			* [readv](https://linuxjm.osdn.jp/html/LDP_man-pages/man2/readv.2.html)
 			* [writev](https://linuxjm.osdn.jp/html/LDP_man-pages/man2/readv.2.html)
 			* [sendfile](https://linuxjm.osdn.jp/html/LDP_man-pages/man2/sendfile.2.html)
+			* [splice](https://linuxjm.osdn.jp/html/LDP_man-pages/man2/splice.2.html)
 			* [select](https://linuxjm.osdn.jp/html/LDP_man-pages/man2/select.2.html)
 			* [poll](https://linuxjm.osdn.jp/html/LDP_man-pages/man2/poll.2.html)
 			* [sigfd](https://linuxjm.osdn.jp/html/LDP_man-pages/man2/signalfd.2.html)
