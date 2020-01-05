@@ -14,6 +14,8 @@ cpat
 	* reference
 		* [wikipedia C signal handling](https://en.wikipedia.org/wiki/C_signal_handling)
 3. create the cat.
+	* Create cat using read(2) and write(2)
+	* [source](./src/03/cat.c)
 4. update the cpat.
 5. use readv(2) and writev(2) at cpat.
 6. `...` to be continued.
